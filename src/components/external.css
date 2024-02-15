@@ -1,0 +1,40 @@
+
+.circle{
+    border: 3px solid red;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: lightseagreen;
+}
+
+
+.myform{
+    border: 5px solid darkblue;
+    margin: auto;
+    border-radius: 43px;
+    background-color: lightcyan;
+    box-shadow: 42px 34px 41px lightskyblue;
+    height: 370px;
+    width: 50%;
+}
+
+.mytable{
+
+    border: 2px solid darkblue;
+    position: relative;
+    left: 150px;
+    top: 26px;
+
+}
+
+.myCRUDHeading{
+    color: darkblue;
+    font-family: fantasy;
+    font-size: 40px;
+}
+
+
+.mainNav{
+    display: flex;
+    justify-content: space-evenly;
+}

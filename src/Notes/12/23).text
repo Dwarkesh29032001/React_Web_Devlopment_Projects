@@ -1,0 +1,59 @@
+19/12/2023............>
+
+javascript concept ---> 
+=====================================================================
+
+HoverCounterComp (class Comp)
+ClickCounterComp (class Comp)
+
+********HOC(Higher Order Component)
+
+*use react snipet for createing class and fuction component 
+
+rce ---> react (it will create class component) 
+rconst => it will generate constructor with super method with state 
+
+
+rfce ---> it will generate function component 
+
+rafce ====> it will generate function component wih arrow fuction
+
+======================================================================
+
+*Render Props 
+
+>>it is used which having same bussiness logic and want to share with mutliple component .
+
+
+>> it this we share logic from class component to another class and fuction,
+
+===========================================================================
+
+*React.Fragment or Fragment :
+
+>> It is an alternative for JSX .
+>> which remove unwanted element from react project 
+
+
+============================================================================
+ * How to render List by using Array Data 
+
+
+============================================================================
+ *** virtual Dom :
+ in react instead-of manipulating Bowser-DOM directly react creats virtual in its memory where it does all the neccesaary 
+ changes and manipulation with the virtual DOM, before making on real Dom
+ react changes whats need be changed
+
+ >>The virtual DOM, also known as the virtual Document Object Model, 
+ is an abstract representation of the actual DOM that plays a critical
+  role in maintaining and updating the user interface of your React application.
+
+
+============================================================================
+
+
+task: you have to display employee info in table with empID , empName , empPost , empSalary 
+, empGender , empGender , empAdress for 10 employee ; 
+
+==========================================================

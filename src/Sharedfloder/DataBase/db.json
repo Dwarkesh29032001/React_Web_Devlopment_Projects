@@ -1,0 +1,93 @@
+{
+  "Product": [
+    {
+      "id": 101,
+      "name": "iphone15 pro max",
+      "price": "175000",
+      "company": "Apple"
+    },
+    {
+      "id": 102,
+      "name": "laptop",
+      "price": 65000,
+      "company": "DELL"
+    },
+    {
+      "id": 104,
+      "name": "Joy Stick",
+      "price": 750,
+      "company": "Logitech"
+    },
+    {
+      "id": 105,
+      "name": "KeyBoard",
+      "price": 8500,
+      "company": "Red-Gear"
+    },
+    {
+      "id": 106,
+      "name": "Ear-Phone",
+      "price": 800,
+      "company": "JBL"
+    },
+    {
+      "id": 107,
+      "name": "Power-Bank",
+      "price": 1500,
+      "company": "Realme"
+    },
+    {
+      "id": 108,
+      "name": "Power-Cable",
+      "price": 500,
+      "company": "Vivo"
+    },
+    {
+      "id": 109,
+      "name": "ROM",
+      "price": 4500,
+      "company": "Intel"
+    },
+    {
+      "id": 110,
+      "name": "Pen-Drive",
+      "price": 900,
+      "company": "Sandisk"
+    },
+    {
+      "name": "Mobile",
+      "price": "30000",
+      "company": "IQOO",
+      "id": 111
+    },
+    {
+      "name": "Tablet",
+      "price": "90000",
+      "company": "Apple",
+      "id": 113
+    },
+    {
+      "name": "WireLess",
+      "price": "5500",
+      "company": "Samsung",
+      "id": 114
+    }
+  ],
+  "Users": [
+    {
+      "id": 1,
+      "userid": "admin",
+      "userpass": "admin@123"
+    },
+    {
+      "id": 2,
+      "userid": "King",
+      "userpass": "king@123"
+    },
+    {
+      "id": 31,
+      "userid": "Hero",
+      "userpass": "Hero@123"
+    }
+  ]
+}
